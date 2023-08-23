@@ -43,3 +43,20 @@ async def main():
 
 # Start the asyncio program
 asyncio.run(main())
+
+#Wed Aug 23 14:52:20 2023 Consumer: Running
+#Wed Aug 23 14:52:20 2023 Consumer: gave up waiting...
+#Wed Aug 23 14:52:20 2023 > got 0.6979160828360244
+#Wed Aug 23 14:52:21 2023 Consumer: gave up waiting...
+#Wed Aug 23 14:52:21 2023 > got 0.6684853453183232
+#Wed Aug 23 14:52:21 2023 > got 0.04171156022336764
+#Wed Aug 23 14:52:21 2023 Consumer: gave up waiting...
+#Wed Aug 23 14:52:22 2023 > got 0.7359489422411067
+#Wed Aug 23 14:52:22 2023 > got 0.06297639366321761
+#Wed Aug 23 14:52:22 2023 Consumer: gave up waiting...
+#Wed Aug 23 14:52:23 2023 > got 0.8385736767680743
+#Wed Aug 23 14:52:23 2023 > got 0.4762368878335991
+#Wed Aug 23 14:52:23 2023 > got 0.10472784708506533
+#Wed Aug 23 14:52:24 2023 > got 0.4361227353267213
+#Wed Aug 23 14:52:24 2023 Producer: Done
+#Wed Aug 23 14:52:24 2023 > got 0.047314279375334056
